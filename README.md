@@ -10,3 +10,6 @@ Supports:
  - uvm...
 
 Optional Enter Payment Details and Credentials
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/ajax-placeorder.svg)](https://greenkeeper.io/)
